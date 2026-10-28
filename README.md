@@ -7,10 +7,10 @@
 
 ### Sobre mim
 
-Estudante de Engenharia de Software na UNIFIO, gosto de transformar problemas reais em software que as pessoas usam no dia a dia. Trabalho de ponta a ponta, da interface ao banco de dados, com TypeScript, React, Next.js, Node.js e Supabase, e estou dando os primeiros passos no mobile com Flutter. Antes de escrever código, procuro entender o problema, pensar na experiência de quem vai usar e definir como o sistema vai se organizar, porque é aí que se evita boa parte do retrabalho. A IA generativa mudou a forma como eu estudo e construo: uso LLMs e agentes de código no meu fluxo, conduzindo frentes em paralelo com git worktrees, sempre com revisão e testes antes de cada entrega. Em tecnologia, o que funciona hoje muda amanhã, e é justamente isso que me atrai: encaro ferramentas novas, mudanças de rota e problemas fora da minha zona de conforto como oportunidade de crescer. Aprendo rápido fazendo, assumo a responsabilidade pelo que entrego e me motiva estar onde o aprendizado é constante e o resultado chega a muita gente.
+Estudante de Engenharia de Software na UNIFIO, tenho curiosidade por tecnologia e por entender a fundo como as coisas funcionam, e estudar faz parte da minha rotina, dentro e fora da faculdade. Gosto de transformar problemas reais em software que as pessoas usam no dia a dia. No meu fluxo de desenvolvimento, uso LLMs e agentes de código, conduzindo frentes em paralelo com git worktrees, sempre com revisão e testes antes de cada entrega. Em tecnologia, o que funciona hoje muda amanhã, e é justamente isso que me atrai: encaro ferramentas novas, mudanças de rota e problemas fora da minha zona de conforto como oportunidade de crescer. Aprendo rápido fazendo, assumo a responsabilidade pelo que entrego e me motiva estar onde o aprendizado é constante e o resultado chega a muita gente.
 
 - Founder & CTO da 7BOX, plataforma jurídica.
-- Interessado em arquitetura de software e system design: sistemas bem divididos, escaláveis e fáceis de evoluir.
+- Interessado em arquitetura de software e system design.
 - Entusiasta de IA generativa e de como ela está mudando a forma de construir software.
 - Acredito que boa parte do trabalho acontece antes do código: entender o problema, desenhar a experiência e planejar a solução.
 - Explorando mobile com Flutter.
