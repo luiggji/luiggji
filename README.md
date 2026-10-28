@@ -7,9 +7,14 @@
 
 ### Sobre mim
 
-Sou apaixonado por tecnologia e estudante de **Engenharia de Software** na **UNIFIO**. Desenvolvo aplicações **full-stack** com TypeScript, React, Next.js, Node.js e Supabase, e hoje meu principal foco é **IA generativa**: integro **LLMs** a produtos reais e uso agentes de código no meu dia a dia, **orquestrando várias frentes em paralelo com git worktrees**, sempre com revisão e testes antes de cada entrega. Também me preocupo com a experiência de quem vai usar o que eu construo, por isso desenho e prototipo as interfaces no **Figma** antes de partir para o código. No momento estou me aprofundando em **Flutter** e começando meus primeiros projetos mobile. Gosto de aprender rápido, trocar conhecimento e encarar desafios que me façam evoluir como engenheiro.
+Estudante de **Engenharia de Software** na **UNIFIO** e desenvolvedor **Full-stack & Mobile**, movido pela curiosidade e pela vontade de construir coisas que as pessoas realmente usam. Desenvolvo aplicações de ponta a ponta: da interface, desenhada e prototipada no **Figma**, à API, ao banco de dados e ao deploy. Trabalho com **LLMs** integrados a produtos e com agentes de código no dia a dia, orquestrando várias frentes em paralelo com **git worktrees**, sempre com revisão e testes antes de cada entrega. Hoje estou me aprofundando em **Flutter** e começando meus primeiros projetos mobile. Gosto de aprender rápido, trocar conhecimento e encarar desafios que me façam evoluir como engenheiro.
 
-**Atualmente:** Founder & CTO da **7BOX**, plataforma jurídica.
+- Founder & CTO da **7BOX**, plataforma jurídica.
+- Stack atual: **TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS** e **Supabase**.
+- Desenvolvo com **Claude Code** e **Codex**, com cada agente isolado no seu próprio git worktree.
+- Interfaces pensadas no **Figma** antes da primeira linha de código.
+- Explorando **mobile com Flutter** e Dart.
+- Santo Antônio da Platina, PR • lfpreres10@gmail.com
 
 ### Stack
 
