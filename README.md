@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:7c3aed&height=190&section=header&text=Luiz%20Felipe%20Borges&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CTO%20%40%207BOX%20%C2%B7%20Software%20Engineering&descSize=17&descAlignY=58" width="100%" alt="Luiz Felipe Borges" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:7c3aed&height=120&section=header" width="100%" alt="" />
+
+<h1>Luiz Felipe Borges</h1>
+
+<p><b>Founder & CTO @ 7BOX</b> · Software Engineering</p>
 
 [![Email](https://img.shields.io/badge/lfpreres10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfpreres10@gmail.com)
 ![Paraná, Brasil](https://img.shields.io/badge/Paran%C3%A1%2C%20Brasil-7c3aed?style=for-the-badge&labelColor=0d1117)
