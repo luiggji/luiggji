@@ -1,9 +1,9 @@
-<img src="./assets/header.svg" width="100%" alt="Hi, I'm Luiz — Full-stack & Mobile Developer · Software Engineering student" />
+# Luiz Felipe Borges
 
-<p align="center">
-  <a href="mailto:lfpreres10@gmail.com"><img src="https://img.shields.io/badge/Email-lfpreres10%40gmail.com-58A6FF?style=flat-square&labelColor=161B22" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Santo%20Ant%C3%B4nio%20da%20Platina-PR%2C%20Brasil-3FB950?style=flat-square&labelColor=161B22" alt="Santo Antônio da Platina, PR" />
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/-Luiz%20Felipe%20Borges-1F6FEB?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/luiz-felipe-borges-130b97330/)
+[![Gmail Badge](https://img.shields.io/badge/-lfpreres10%40gmail.com-1F6FEB?style=flat-square&logo=gmail&logoColor=white)](mailto:lfpreres10@gmail.com)
+
+Software Engineer · Full Stack · AI-First · Founder & CTO @ 7BOX
 
 ### Sobre mim
 
